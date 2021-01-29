@@ -1,1 +1,1 @@
-<video src="Футаж.mp4" width='300' height='200' controls='controls'></video> 
+<video src="Футаж.ogv" width='300' height='200' controls='controls'></video> 
