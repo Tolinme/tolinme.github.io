@@ -1,1 +1,0 @@
-<video src="Футаж.ogv" width='300' height='200' controls='controls'></video> 
